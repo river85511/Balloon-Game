@@ -1,5 +1,5 @@
 # BalloonPopping-Game
-A simple BalloonPopping Game made by myself
+A simple BalloonPopping Game made by Qt
 
 **Game ScreenShots:**
 
