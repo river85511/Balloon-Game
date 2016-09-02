@@ -1,5 +1,5 @@
-# Balloon-Game
-A simple Balloon-Popping Game made by myself
+# BalloonPopping-Game
+A simple BalloonPopping Game made by myself
 
 **Game ScreenShots:**
 
